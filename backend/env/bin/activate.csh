@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV '/mnt/d/Cursos/Python/Desarrollo Web Full Stack Django Rest Framework y Next.js/drt_nextjs/1_blog/env'
+setenv VIRTUAL_ENV '/mnt/d/Cursos/Python/C Django RestNext.js/drt_nextjs/1_blog/backend/env'
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/"bin":$PATH"

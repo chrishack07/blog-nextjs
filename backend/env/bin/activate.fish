@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV '/mnt/d/Cursos/Python/Desarrollo Web Full Stack Django Rest Framework y Next.js/drt_nextjs/1_blog/env'
+set -gx VIRTUAL_ENV '/mnt/d/Cursos/Python/C Django RestNext.js/drt_nextjs/1_blog/backend/env'
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH

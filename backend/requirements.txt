@@ -1,6 +1,7 @@
 Django==5.2
 djangorestframework==3.18.3
 django-redis==7.0.0
+django-environ==0.14.0
 uvicorn==0.54.0
 channels==4.3.2
 channels-redis==4.3.0
